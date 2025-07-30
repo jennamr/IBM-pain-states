@@ -6,13 +6,19 @@ Created on Tue Apr 22 13:04:05 2025
 @author: jennareinen
 
 This code serves as pseudocode and example code for the paper "Defining and validating a 
-multidimensional digital metric of health states in chronic pain" by Reinen 
+multidimensional digital metric of health states in chronic back and leg pain" by Reinen 
 et al. Taking from specific lines in the Methods Section and in the Supplement, 
 such code can be created and edited. 
 
 This is intended to serve as a conceptual guide for our thought process and 
 should be amended substantially when used with real data to accommodate the 
 specifications of each study. 
+
+All content in these repositories including code has been provided by IBM under 
+the associated open source software license and IBM is under no obligation to provide 
+enhancements, updates, or support. IBM developers produced this code as an open source 
+project (not as an IBM product), and IBM makes no assertions as to the level of quality
+nor security, and will not be maintaining this code going forward.
 
 """
 
